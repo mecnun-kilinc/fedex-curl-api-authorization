@@ -40,3 +40,8 @@ Credentials are created based on inputs in the FedEx Developer Portal:
     Client Secret – You will see the Secret Key (Client Secret) on the confirmation page once a project is created on the FedEx Developer portal. If needed, the Secret Key can also be regenerated, on the Project Overview page.
 
 Note: FedEx® customers (Internal, Compatible or Proprietary Parent Child) need to send Child Key (Customer Secret) and Child Secret (Customer password) in addition with API Key and Secret Key for creating OAuth token. Refer Credential Registration API for how to get Child Key and Child Secret.
+
+
+https://developer.fedex.com/api/en-cn/catalog/authorization/v1/docs.html
+
+
